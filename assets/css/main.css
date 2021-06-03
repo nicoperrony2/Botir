@@ -51,3 +51,7 @@ button {
     text-align: center;
     font-weight: bold;
 }
+
+.logout {
+    color: #f0960f;
+}
